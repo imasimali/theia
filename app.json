@@ -1,0 +1,8 @@
+{
+    "name": "Theia IDE on Heroku",
+    "description": "An install of Theia IDE",
+    "repository": "https://github.com/imasimali/theia",
+    "keywords": ["node", "theia"],
+    "website": "https://theia-ide.org/",
+    "stack": "container"
+}
