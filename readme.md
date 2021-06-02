@@ -7,15 +7,19 @@
 <br>
 <div id="deploy" align="center">
 
+[![Deploy](https://deploy.zeet.co/theia.svg)](https://deploy.zeet.co/?url=https://github.com/imasimali/theia)<br>
+    
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+    
 </div>
 
-# Theia IDE on Heroku
+# Theia IDE on Zeet and Heroku
 
-A [Heroku](https://www.heroku.com/) install of [Theia IDE](https://theia-ide.org/).
+One click deployment of [Theia IDE](https://theia-ide.org/) on the [Zeet Platform](https://zeet.co/) and [Heroku](https://www.heroku.com/).
 
 Modify package.json file according to your ide needs.
+
+# For manual installation follow these steps.
 
 ## Install [Docker](https://docs.docker.com) and the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
